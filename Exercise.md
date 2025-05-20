@@ -1,4 +1,4 @@
-Gỉa sử có kháo số.'1234'
+Gỉa sử có khóa số.'1234'
 + Nhập pass từ bàn phím
 + nếu dúng còi kêu beep, đè led nháy 1 lần
 + nếu sai còi kêu beep-beep, led nháy 2 lần
